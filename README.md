@@ -1,68 +1,63 @@
 # .github
 Organization GitHub Workflows
 
-[![Banner](https://github.com/clockworkz-io/.github/blob/main/profile/banner/image.png?raw=true)](https://cpco.io/homepage)
+[![Banner](https://github.com/clockworkz-io/.github/blob/main/profile/banner/image.png?raw=true)](https://clockworkz.io)
 <p align="right">
-  <a href="https://slack.cloudposse.com" title="Slack Community"><img src="https://slack.cloudposse.com/for-the-badge.svg" alt="Slack Community"></a>
-  <a href="https://cloudposse.com/office-hours/" title="Office Hours"><img src="https://img.shields.io/badge/Office_Hours-2891E8.svg?style=for-the-badge" alt="Office Hours"></a>
-  <a href="https://cloudposse.com/quiz/" title="Request Quote"><img src="https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge" alt="Request Quote"></a>
+  <a href="https://clockworkzworkspace.slack.com" title="Slack Community"><img src="./Slack.svg" alt="Slack Community"></a>
+  <a href="https://clockworkz.io/contact/" title="Request Quote"><img src="https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge" alt="Request Quote"></a>
 </p>
 
 
 > [!IMPORTANT]
 > ### We're a DevOps as a Service[';./=] for Startups and Enterprises
->
-> Use our ready-to-go [terraform architecture blueprints](https://cloudposse.com/services/) for AWS to get up and running quickly.
-> 
-> ✅ We build it with you.<br/>
-> ✅ You own everything.<br/>
-> ✅ Your team wins.<br/>
->
-> [![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://cloudposse.com/quiz/)
->
-> Just browsing? Kickstart your journey with [Atmos](https://atmos.tools), dive into discussions on [Slack](https://slack.cloudposse.com), and get insights at our weekly [office hours](https://cloudposse.com/office-hours). Discover how Cloud Posse's open-source solutions can elevate your organization.
-> 
-> <details>
->   <summary><strong>💡 Learn More about Clockworkz</strong></summary>
-> 
-> ### Our Approach
->
-> *After you work with Cloud Posse, your team will know what they're doing.*
->
-> You will have a plan in place to handle deploying every new service your company builds. You will have peace of mind knowing that everything is defined with infrastructure as code and confident in your ability to deliver. Your team will have learned to fish and become autonomous. And guess what? We are here to pull you out if you ever get stuck in the mud.
->
-> [![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://cloudposse.com/quiz/)
-> * [Case Studies](https://cloudposse.com/case-studies/)
-> * [Foundational Infrastructure](https://cloudposse.com/reference-architecture/foundational-infrastructure/)
-> * [Foundational Platform](https://cloudposse.com/reference-architecture/foundational-platform/)
-> * [Foundational Release Engineering](https://cloudposse.com/reference-architecture/foundational-release-engineering/)
-> * [Foundational SRE](https://cloudposse.com/reference-architecture/foundational-sre/)
-> * [Foundational Security & Compliance](https://cloudposse.com/reference-architecture/foundational-security-and-compliance/)
->
-> ### How it Works
-> *Use the industry's most robust AWS reference architecture for terraform to solve your most challenging problems of compliance and observability.*
-> 
-> Our plan ensures you have a platform built for scale and we'll guide you along the way so you can make informed decisions. After you graduate from our accelerator, we offer long-term support to help you grow.
-> 
-> [![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://cloudposse.com/quiz/)
->
-> * [Reference Architecture](https://cloudposse.com/reference-architecture/)
-> * [Our Toolchain](https://cloudposse.com/toolchain/)
-> * [Getting Started](https://cloudposse.com/get-started/)
-> * [FAQs](https://cloudposse.com/faq/)
->
-> ### What We Do
-> 
-> *Your team can operate like a pro today.*
->
-> Ensure that your team succeeds by using our proven process and turnkey blueprints. Plus, we stick around until you succeed.
->
-> [![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://cloudposse.com/quiz/)
->
-> * [What is a DevOps Accelerator](https://cloudposse.com/devops-accelerator/)
-> * [The Big Picture](https://cloudposse.com/big-picture/)
-> </details>
 
+[![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://clockworkz.io/contact/)
+
+Clockworkz specializes in providing top-tier DevOps and Site Reliability Engineering (SRE) services tailored to startups and enterprises. Our expertise spans across various industries, including FinTech, Transportation, HealthCare, and Gaming.
+
+#### What We Offer
+
+✅ **Proactive Maintenance:** Our team ensures your systems run smoothly, allowing you to focus on innovation.
+
+✅ **Knowledge Sharing:** We believe in empowering your developers with the necessary skills for long-term success.
+
+✅ **Custom Solutions:** Utilize our ready-to-go blueprints for Azure or AWS to expedite your project's deployment.
+
+#### Learn More about Clockworkz
+
+<details>
+  <summary><strong>💡 Explore Our Approach</strong></summary>
+
+### Our Approach
+
+After collaborating with Clockworkz, your team will be equipped with the expertise to navigate complex infrastructure challenges with confidence. Our commitment extends beyond project completion—we're here to support your journey every step of the way.
+
+[![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://clockworkz.io/contact/)
+
+* [Blog](https://clockworkz.io/blog/)
+* [Product](https://clockworkz.io/reference-architecture/services/)
+* [Services](https://clockworkz.io/reference-architecture/product/)
+
+### How it Works
+
+Our cloud-native reference architecture addresses your compliance and observability needs comprehensively. From initial setup to long-term maintenance, Clockworkz ensures your platform is built for scale and stability.
+
+[![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://clockworkz.io/contact/)
+
+* [Who is this for?](https://clockworkz.io/about/)
+* [Our Toolchain](https://clockworkz.io/about/)
+* [Getting Started](https://clockworkz.io/about/)
+
+### What We Do
+
+Our turnkey solutions and proven processes enable your team to operate with confidence. Clockworkz remains committed to your success, providing ongoing support and guidance as you navigate your digital transformation journey.
+
+[![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://clockworkz.io/contact/)
+
+* [What is DevOps as a Service?](https://clockworkz.io/about/)
+</details>
+
+---
 
 [![README Footer][readme_footer_img]][readme_footer_link]
 [![Beacon][beacon]][website]

@@ -7,7 +7,7 @@
 
 ---
 
-### Welcome to Clockworkz DevOps & SRE Consultancy
+### Welcome to Clockworkz DevOps as a Service
 
 [![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://clockworkz.io/contact/)
 
