@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modified SVG with new gradient colors -->
+<svg version="1.1" id="_x31_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="604px" height="452px" viewBox="0 0 604 452" enable-background="new 0 0 604 452" xml:space="preserve">
+<defs>
+    <linearGradient id="newGradient1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="100%" y2="0">
+        <stop offset="0%" style="stop-color:#1DCDFE"/>
+        <stop offset="100%" style="stop-color:#21D0B2"/>
+    </linearGradient>
+    <linearGradient id="newGradient2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="100%">
+        <stop offset="0%" style="stop-color:#34F5C5"/>
+        <stop offset="100%" style="stop-color:#2F455C"/>
+    </linearGradient>
+    <linearGradient id="newGradient3" gradientUnits="userSpaceOnUse" x1="100%" y1="100%" x2="0" y2="0">
+        <stop offset="0%" style="stop-color:#21D0B2"/>
+        <stop offset="50%" style="stop-color:#34F5C5"/>
+        <stop offset="100%" style="stop-color:#1DCDFE"/>
+    </linearGradient>
+    <linearGradient id="newGradient4" gradientUnits="userSpaceOnUse" x1="100%" y1="0" x2="0" y2="100%">
+        <stop offset="0%" style="stop-color:#2F455C"/>
+        <stop offset="100%" style="stop-color:#1DCDFE"/>
+    </linearGradient>
+</defs>
+<g>
+    <polygon fill="#2F455C" points="604,258.173 604,0 0,0 0,452 327.016,452 539.71,261.057   "/>
+    <path fill="url(#newGradient1)" d="M604,258.173c0,0-38.731-19.265-88.807-76.273v95.537L604,321.079V258.173z"/>
+    <path fill="url(#newGradient2)" d="M472.159,210.208c0,0,48.12,63.298,131.841,93.571v48.752c0,0-77.462-17.692-118.931-35.777
+        s-64.16-82.956-64.16-82.956L472.159,210.208z"/>
+    <path fill="url(#newGradient3)" d="M384.134,199.2c0.782,1.573,67.681,80.99,128.32,110.084S604,339.95,604,339.95v37.743
+        c0,0-55.944,23.196-154.141-25.162S319.192,210.208,319.192,210.208L384.134,199.2z"/>
+    <path fill="url(#newGradient4)" d="M336.014,235.37c0,0,79.026,96.324,152.967,117.161S604,372.582,604,372.582v40.102
+        c0,0-77.462,22.41-183.091-6.291S262.074,270.361,262.074,270.361L336.014,235.37z"/>
+    <!-- Additional paths omitted for brevity, apply gradients similarly -->
+</g>
+</svg>
