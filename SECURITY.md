@@ -2,10 +2,10 @@
 
 ## Vulnerability Reporting
 
-The security of our software is a top priority for Cloud Posse. We welcome reports on any security vulnerabilities discovered in any Cloud Posse-owned repository. All legitimate concerns will be promptly investigated and addressed.
+The security of our software is a top priority for Clockworkz. We welcome reports on any security vulnerabilities discovered in any Clockworkz-owned repository. All legitimate concerns will be promptly investigated and addressed.
 
 > **Important Notice**:
-> For any security-related reports, please reach out directly via email to [security@cloudposse.com](mailto:security@cloudposse.com).
+> For any security-related reports, please reach out directly via email to [security@clockworkz.io](mailto:security@clockworkz.io).
 
 ### Reporting Details
 
@@ -18,7 +18,7 @@ When reporting a vulnerability, providing detailed information can greatly assis
 ### Response Expectations
 
 > **Please Note**:
-> Cloud Posse **does not offer bug bounties** for vulnerabilities.
+> Clockworkz **does not offer bug bounties** for vulnerabilities.
 >
 > Our projects are open-source and released for free under a permissive license, with a focus on community contributions. We appreciate all contributions but do not offer compensation for security disclosures. This policy ensures fairness and equality within our community.
 
@@ -35,4 +35,4 @@ We typically support only the most recent major version of each project. Critica
 
 We deeply appreciate the efforts of security researchers and the broader community in enhancing our projects' security. Our approach to handling vulnerabilities is transparent and cooperative, recognizing and crediting individuals for their invaluable contributions to our documentation or public statements where suitable.
 
-Your contributions are crucial in maintaining the security of Cloud Posse’s projects and the wider open-source community. Thank you for your support and dedication.
+Your contributions are crucial in maintaining the security of Clockworkz’s projects and the wider open-source community. Thank you for your support and dedication.
