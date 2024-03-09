@@ -53,8 +53,3 @@ Our turnkey solutions and proven processes enable your team to operate with conf
 
 * [What is DevOps as a Service?](https://clockworkz.io/about/)
 </details>
-
----
-
-[![README Footer][readme_footer_img]][readme_footer_link]
-[![Beacon][beacon]][website]
