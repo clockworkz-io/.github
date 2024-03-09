@@ -9,7 +9,7 @@ Organization GitHub Workflows
 
 
 > [!IMPORTANT]
-> ### We're a DevOps as a Service[';./=] for Startups and Enterprises
+> ### We're a DevOps as a Service for Startups and Enterprises
 
 [![Request Quote](https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge)](https://clockworkz.io/contact/)
 
