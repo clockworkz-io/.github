@@ -1,4 +1,4 @@
-[![Banner](https://github.com/clockworkz-io/.github/tree/main/profile/banner/image.png?raw=true)](https://clockworkz.io)
+[![Banner](https://github.com/clockworkz-io/.github/tree/main/profile/banner/github-banner.png?raw=true)](https://clockworkz.io)
 <p align="right">
   <a href="https://clockworkzworkspace.slack.com" title="Slack Community"><img src="https://github.com/clockworkz-io/.github/blob/main/assets/tech/slack-button.svg?style=for-the-badge" alt="Slack Community" height="28"></a>
   <a href="https://clockworkz.io/contact/" title="Request Quote"><img src="https://img.shields.io/badge/Request_Quote-success.svg?style=for-the-badge" alt="Request Quote"></a>
